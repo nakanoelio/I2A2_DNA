@@ -1,7 +1,7 @@
 # EXERCÍCIO I2A2 – ANÁLISE GENÔMICA PARA DETECÇÃO DE PARENTESCO
 05 DE MARÇO DE 2021
 
-[Download](Exercicio_I2A2_Parentesco_Genetico_ELIONAKANO.pdf)
+[Full Document](Exercicio_I2A2_Parentesco_Genetico_ELIONAKANO.pdf)
 
 ## INTRODUÇÃO
 
